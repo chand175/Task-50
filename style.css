@@ -1,0 +1,45 @@
+*{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+div{
+    color: white;
+}
+.box{
+
+    color :white;
+
+}
+
+.box p:first-of-type{
+    font-weight: bold;
+    font-size: 20px;
+color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
